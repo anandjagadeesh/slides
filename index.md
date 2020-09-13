@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to Anand Jagadeesh's Presentations Repository
 
-You can use the [editor on GitHub](https://github.com/anandjagadeesh/presentations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+:octocat: **[View on GitHub](https://github.com/anandjagadeesh/presentations)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository hosts all of the presentations used by Anand for his talks, webinars or workshops and all are free to use and can be used to modify and adapt as per needs!
+List of presentations currently posted here:
 
-### Markdown
+_1. [\[Participants Handout\] Git Basics - BMSIT - WebTraining - 14 April 2020.pdf](https://github.com/anandjagadeesh/presentations/raw/master/%5BParticipants%20Handout%5D%20Git%20Basics%20-%20BMSIT%20-%20WebTraining%20-%2014%20April%202020.pdf)_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anandjagadeesh/presentations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_2. [\[Participant Handout\] Getting to know Git Workshop _ Online _ RVCE _ 27-28 Aug 2020 _ Anand Jagadeesh.pdf](https://github.com/anandjagadeesh/presentations/raw/master/%5BParticipant%20Handout%5D%20Getting%20to%20know%20Git%20Workshop%20_%20Online%20_%20RVCE%20_%2027-28%20Aug%202020%20_%20Anand%20Jagadeesh.pdf)_
