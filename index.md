@@ -1,6 +1,6 @@
 # Welcome to Anand Jagadeesh's Presentations Repository
 
-:octocat: **[View on GitHub](https://github.com/anandjagadeesh/presentations)**
+**[View on GitHub](https://github.com/anandjagadeesh/presentations)**
 
 This repository hosts all of the presentations used by Anand for his talks, webinars or workshops and all are free to use and can be used to modify and adapt as per needs!
 List of presentations currently posted here:
