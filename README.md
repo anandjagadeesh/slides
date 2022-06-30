@@ -1,6 +1,6 @@
-# Anand Jagadeesh's Presentations Repository
+# Anand Jagadeesh's Slides Repository
 
-#### This repository hosts all of the presentations used by Anand for his talks, webinars or workshops and all are free to use and can be used to modify and adapt as per needs!
+#### This repository hosts all of the slides used by Anand for his talks, webinars or workshops and all are free to use and can be used to modify and adapt as per needs!
 
 List of presentations currently posted here:
 1. [\[Participants Handout\] Git Basics - BMSIT - WebTraining - 14 April 2020.pdf](https://github.com/anandjagadeesh/presentations/raw/master/%5BParticipants%20Handout%5D%20Git%20Basics%20-%20BMSIT%20-%20WebTraining%20-%2014%20April%202020.pdf)
